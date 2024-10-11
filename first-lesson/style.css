@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2A3E48;
+}
+
+h1 {
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    text-align: center;
+    font-style: normal;
+}
+
+h3 {
+    font-family: "Ruge Boogie", cursive;
+    font-weight: 400;
+    font-size: 30px;
+    color: red;
+    font-style: normal;
+    text-align: center;
+}
+
+p {
+    color: #fff;
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    padding: 2em;
+}
+
+.third-notification {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.third-notification img {
+    width: auto;
+    height: auto;
+}
